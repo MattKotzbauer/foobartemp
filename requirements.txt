@@ -1,1 +1,5 @@
+# Hand gesture recognition
 cv2
+mediapipe
+torch
+scikit-learn
